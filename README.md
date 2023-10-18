@@ -3,18 +3,9 @@
 🚀 I'm passionate about building robust web applications using cutting-edge technologies. My proficiency spans both front-end and back-end development, making me a versatile and effective developer.
 
 💻 **Tech Stack**:
-- Front-End:
-  - React.js, Next.js
-  - Redux, Redux Toolkit, Redux Thunk, Redux Sagas
-  - SASS, SCSS, CSS3, Bootstrap, Tailwind CSS
-  - JavaScript, TypeScript
-  - Ant Design, Material UI, Semantic UI, React-Bootstrap
-  - Chart.js, Anychart
-  - jsreportonline
+- Front-End (React.js, Next.js, Redux, Redux Toolkit, SASS/SCSS, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, Material UI, Semantic UI, React-Bootstrap, Chart.js, Anychart, jsreport)
 
-- Back-End:
-  - Node.js, Express.js, NestJs
-  - MongoDB, MySQL, GraphQL
+- Back-End: (Node.js, Express.js, NestJs, MongoDB, MySQL, GraphQL)
 
 🌱 **Currently Learning**:
 - Expanding my back-end expertise to create seamless, data-driven solutions.
@@ -24,9 +15,6 @@
 
 📫 **Reach Me**:
 - Have questions or are interested in collaboration? Don't hesitate to reach out at hafizadeel493@gmail.com.
-
-📂 **Version Control & Collaboration**:
-- Proficient in Git and experienced with platforms like GitHub, GitLab, and Bitbucket.
 
 🌟 **Key Strengths**:
 - Attention to detail, ensuring quality code and user experiences.
