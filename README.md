@@ -1,9 +1,9 @@
-### Hi there! 👋 I'm Hafiz Adeel, a Full Stack Developer.
+### Hi there! 👋 I'm Hafiz Adeel, a Senior Frontend Developer.
 
 🚀 I'm passionate about building robust web applications using cutting-edge technologies. My proficiency spans both front-end and back-end development, making me a versatile and effective developer.
 
 💻 **Tech Stack**:
-- Front-End (React.js, Next.js, Redux, Redux Toolkit, SASS/SCSS, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, Material UI, Semantic UI, React-Bootstrap, Chart.js, Anychart, jsreport)
+- Front-End (React.js, Next.js, Redux, Redux Toolkit, Storybook, React-flow, SASS/SCSS, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, Material UI, Semantic UI, React-Bootstrap, Chart.js, Anychart, jsreport)
 
 - Back-End: (Node.js, Express.js, NestJs, MongoDB, MySQL, GraphQL)
 
