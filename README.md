@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Hafiz Adeel, a Senior Frontend Developer.
+### Hi there! 👋 I'm Hafiz Adeel, a Senior Frontend Engineer.
 
 🚀 I'm passionate about building robust web applications using cutting-edge technologies. My proficiency spans both front-end and back-end development, making me a versatile and effective developer.
 
