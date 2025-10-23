@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Hafiz Adeel, a Senior Frontend Engineer.
+### Hi there! 👋 I'm Hafiz Adeel, a Mern Stack Engineer.
 
 🚀 I'm passionate about building robust web applications using cutting-edge technologies. My proficiency spans both front-end and back-end development, making me a versatile and effective developer.
 
