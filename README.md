@@ -1,17 +1,11 @@
-### Hi there! 👋 I'm Hafiz Adeel, a Mern Stack Engineer.
+### Hi there! 👋 I'm Hafiz Muhammad Adeel, a FULL Stack Engineer.
 
 🚀 I'm passionate about building robust web applications using cutting-edge technologies. My proficiency spans both front-end and back-end development, making me a versatile and effective developer.
 
 💻 **Tech Stack**:
-- Front-End (React.js, Next.js, Redux, Redux Toolkit, Storybook, React-flow, SASS/SCSS, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, Material UI, Semantic UI, React-Bootstrap, Chart.js, Anychart, jsreport)
+- Front-End React.js, Next.js, JavaScript, TypeScript, Redux Toolkit, Storybook, React-flow, SASS/SCSS, CSS3, Bootstrap, Tailwind CSS, Ant Design, Material UI, Semantic UI, React-Bootstrap, Chart.js
 
-- Back-End: (Node.js, Express.js, NestJs, MongoDB, MySQL, GraphQL)
-
-🌱 **Currently Learning**:
-- Expanding my back-end expertise to create seamless, data-driven solutions.
-
-🎯 **Focus**:
-- I'm currently working on React.js, and Next.js frontend development, ensuring that user interfaces are not just functional but also visually appealing.
+- Back-End: Node.js, Express.js, NestJs, MongoDB, PostgreSQL, GraphQL, Redis
 
 📫 **Reach Me**:
 - Have questions or are interested in collaboration? Don't hesitate to reach out at hafizadeel493@gmail.com.
